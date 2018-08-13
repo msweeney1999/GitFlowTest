@@ -14,6 +14,10 @@ namespace TestForGitFlow
 
     public class Program
     {
+        public static void Feature1()
+        {
+            //this is on feature 1
+        }
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
