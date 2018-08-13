@@ -18,6 +18,10 @@ namespace TestForGitFlow
         {
 
         }
+        public static void HotFix2()
+        {
+
+        }
         public static void Feature1()
         {
             //this is on feature 1
