@@ -14,6 +14,10 @@ namespace TestForGitFlow
 
     public class Program
     {
+        public static void HotFix1()
+        {
+
+        }
         public static void Feature1()
         {
             //this is on feature 1
