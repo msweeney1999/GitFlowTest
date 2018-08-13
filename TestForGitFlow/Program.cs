@@ -10,6 +10,8 @@ using Microsoft.Extensions.Logging;
 
 namespace TestForGitFlow
 {
+    // test 1
+
     public class Program
     {
         public static void Main(string[] args)
